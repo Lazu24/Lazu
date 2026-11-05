@@ -1,0 +1,6 @@
+{
+  "name": "Lazu - Planificador y Enfoque",
+  "description": "Organiza tu tiempo. Encuentra tu enfoque. Planificador personal de tareas y concentración con sistema Neo Glass Dark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
